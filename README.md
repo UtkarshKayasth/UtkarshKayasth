@@ -1,3 +1,17 @@
+## 👤 Utkarsh Kayasth
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/utkarshkayasth)
+[![Email](https://img.shields.io/badge/Email-utkarshkayasth485%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshkayasth485@gmail.com)
+
+---
+
+### 🧾 About Me
+
+I’m Utkarsh Kayasth, a passionate software developer with a Master’s in Computer Applications and a strong focus on backend development, machine learning, and cloud-native solutions. I have hands-on experience working with technologies like Python, Java, Django, Spring Boot, and Azure, and I enjoy building scalable web applications and solving real-world problems through clean, efficient code. I'm particularly interested in data-driven development, having worked on projects involving predictive modeling and analytics using tools like Pandas, Power BI, and Tableau. I’m always eager to learn new technologies, collaborate on meaningful projects, and contribute to impactful software solutions.
+
+
 ## 🧠 Technical Expertise
 
 ### 🖥 Programming Languages
